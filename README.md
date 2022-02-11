@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gwen
+- 👀 I’m a U1 student at McGill university
+- 🌱 Major Psychology & Minor Computer Science
+- 📫 Reach me at: luyue.guan@mail.mcgill.ca
